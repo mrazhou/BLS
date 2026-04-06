@@ -1,0 +1,12 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+data
+results
+.vscode
+scripts/dev
+scripts/test
+misc
+mlruns
