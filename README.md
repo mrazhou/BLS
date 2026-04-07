@@ -1,5 +1,5 @@
 <h2 align="center">Batch Loss Score for Dynamic Data Pruning</h2>
-<p align="center"><b>CVPR 2026</b> | <a href="https://github.com/mrazhou/BLS">[Paper]</a> | <a href="https://github.com/mrazhou/BLS">[Code]</a> </p>
+<p align="center"><b>CVPR 2026</b> | <a href="https://arxiv.org/pdf/2604.04681">[Paper]</a> | <a href="https://github.com/mrazhou/BLS">[Code]</a> </p>
 
 **BLS** is a computationally efficient alternative using an Exponential Moving Average (EMA) of readily available batch losses to assign scores to individual samples. By treating batch loss as a noisy measurement of scaled individual loss, it acts as a low-pass filter to attenuate batch composition noise. 
 
